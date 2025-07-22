@@ -48,7 +48,7 @@ module.exports = {
   // Production URLs
   storeUrl: "https://westwingpoc.b.vtex.app/",
   secureSubdomain: "https://westwingpoc.myvtex.com/",
-  checkoutUrl: "https://westwingpoc.myvtex.com/checkout"",
+  checkoutUrl: "https://westwingpoc.myvtex.com/checkout",
   loginUrl: "https://westwingpoc.myvtex.com/login",
   accountUrl: "https://westwingpoc.myvtex.com/account",
 
