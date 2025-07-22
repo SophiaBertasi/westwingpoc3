@@ -15,7 +15,7 @@ module.exports = {
 
   // Platform specific configs for API
   api: {
-    storeId: "newstore",
+    storeId: "westwingpoc",
     workspace: 'master',
     environment: 'vtexcommercestable',
     hideUnavailableItems: true,
@@ -46,11 +46,11 @@ module.exports = {
   },
 
   // Production URLs
-  storeUrl: "https://www.fast.store",
-  secureSubdomain: "https://www.fast.store/",
-  checkoutUrl: "https://www.fast.store/checkout",
-  loginUrl: "https://www.fast.store/api/io/login",
-  accountUrl: "https://www.fast.store/api/io/account",
+  storeUrl: "https://westwingpoc.b.vtex.app/",
+  secureSubdomain: "https://westwingpoc.myvtex.com/",
+  checkoutUrl: "https://westwingpoc.myvtex.com/checkout"",
+  loginUrl: "https://westwingpoc.myvtex.com/login",
+  accountUrl: "https://westwingpoc.myvtex.com/account",
 
   previewRedirects: {
     home: '/',
