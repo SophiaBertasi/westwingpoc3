@@ -242,9 +242,9 @@
     }
 
     [data-fs-sku-selector] {
-      --fs-sku-selector-image-border-radius                : var(--fs-border-radius-circle);
-      --fs-sku-selector-option-border-radius               : var(--fs-border-radius-circle);
-      --fs-sku-selector-option-border-color                : var(--fs-border-color);
+      fs-sku-selector-image-border-radius                : var(--fs-border-radius-circle);
+      fs-sku-selector-option-border-radius               : var(--fs-border-radius-circle);
+      fs-sku-selector-option-border-color                : var(--fs-border-color);
     }
 
     [data-fs-image-gallery] > [data-fs-image] {
